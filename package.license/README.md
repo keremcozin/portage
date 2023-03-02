@@ -1,1 +1,1 @@
-# The software I use that's not completely free.
+The software I use which is not completely free.
